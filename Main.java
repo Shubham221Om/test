@@ -32,6 +32,8 @@ public class Main {
         } else {
             System.out.println("They're not same");
         }
+        String str5 = "This is for git!";
+        System.out.println(str5);
 
     }
 }
